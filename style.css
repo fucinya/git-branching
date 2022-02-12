@@ -31,6 +31,7 @@ body {
 }
 
 .branches__image {
+  width: 100%;
   max-width: 800px;
   margin: 20px;
 }
